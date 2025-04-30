@@ -13,7 +13,7 @@ Antes de ejecutar esta aplicación, asegúrate de tener instalados los siguiente
 
 1.  **Clonar el repositorio (si aplica):**
     ```bash
-    git clone [https://github.com/sindresorhus/del](https://github.com/sindresorhus/del)
+    git clone https://github.com/aseugiro/apiOperacion
     cd [nombre del directorio del repositorio]
     ```
 
